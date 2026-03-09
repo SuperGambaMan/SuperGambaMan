@@ -80,7 +80,7 @@ Es un proyecto ideal para demostrar dominio de Java, persistencia con JPA y dise
 ---
 
 ## 🌐 Encuéntrame en:
-- 💼 LinkedIn: [Tu perfil](https://www.linkedin.com/in/marcos-bernal-urbán-822005112)
+- 💼 LinkedIn: [Marcos Bernal](https://www.linkedin.com/in/marcos-bernal-urbán-822005112)
 - 📧 Correo: [marcosbernalurban@gmail.com](mailto:marcosbernalurban@gmail.com)
 
 ---
